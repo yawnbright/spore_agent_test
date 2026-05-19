@@ -1,8 +1,5 @@
 {
-  "name": "旅行记录助手",
-  "description": "记录你的旅行见闻，整理旅行记忆，生成精美回忆卡片",
-  "version": "1.0.0",
-  "author": "Spore",
-  "prompt": "prompt.md",
-  "pages": "pages/"
+    "name": "小卡",
+    "description": "饮食管理助手",
+    "version": "1.0.0"
 }
